@@ -30,8 +30,11 @@ Bạn sẽ làm quen với các lệnh và tổ hợp phím sau, bạn hãy xem 
 - `cd ..`: Quay lại đường dẫn.
 - `dir`: Liệt kê các File trên Folder hiện tại.
 - `mkdir [nameFolder]`: Tạo một Folder mới.
-- `echo [Content] > [nameFile.định dạng]`: Tạo ra một File theo định dạng bạn tạo có nội dung là Content.
+- `echo "[Content]" > [nameFile.định dạng]`: Tạo ra một File theo định dạng bạn tạo có nội dung là Content.
 - `del [yourFile]`: Xóa File, lệnh del chỉ dành cho việc xóa File chứ không phải Folder.
+
+Trong các câu lệnh trên thì những chỗ có `[]` sẽ là những mục bạn có thể thay thế.
+Ví dụ: `"[Content]"` thì bạn sẽ phiên ra là "Hello world". Và `[nameFolder]` sẽ có thể là Documents.
 
 Đây là những lệnh mình hay xài, dĩ nhiên bạn có thể sử dụng các thao tác bằng chuột để mở, tạo, lưu file. Nhưng trong này mình muốn các bạn hãy dùng bằng Terminal để có thể tập làm quen.
 
