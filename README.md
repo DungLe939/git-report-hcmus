@@ -1,13 +1,12 @@
 # 1. Tổng quan về Git và GitHub
 Ở mục này, bạn sẽ chủ động tự ôn tập dựa trên một sườn nội dung mà mình cung cấp sẵn. Việc tự tìm hiểu và khai thác kiến thức theo từng ý trong sườn không chỉ giúp bạn hiểu sâu hơn mà còn rèn luyện khả năng tư duy, phân tích và trình bày vấn đề một cách có hệ thống.
-> [!hint]
-> - Git là gì ?
-> - Tại sao lại dùng Git?
-> -  Lịch sử của Git.
-> - Git Workflow.
-> - GitHub là gì ?
-> - GitHub có chức năng g ì?
-> - Sự khác nhau giữa Git và GitHub.
+- Git là gì ?
+- Tại sao lại dùng Git?
+-  Lịch sử của Git.
+- Git Workflow.
+- GitHub là gì ?
+- GitHub có chức năng g ì?
+- Sự khác nhau giữa Git và GitHub.
 ---
 # 2. Các khái niệm
 
@@ -37,11 +36,9 @@ Bạn sẽ làm quen với các lệnh và tổ hợp phím sau, bạn hãy xem 
 
 Đây là những lệnh mình hay xài, dĩ nhiên bạn có thể sử dụng các thao tác bằng chuột để mở, tạo, lưu file. Nhưng trong này mình muốn các bạn hãy dùng bằng Terminal để có thể tập làm quen.
 
-> [!Note] Chú ý
-> Nếu các bạn có gặp vấn đề gì về lỗi Terminal, phiền bạn hãy sử dụng Git Bash here.
-> Git bash nó xem đảm bảo bạn có thể chắc chắn xài được các câu lệnh.
-> 
-> **\*Cách sử dụng**: Nếu bạn đã cài Git bạn sẽ nhấn chuột phải vào khoảng trống Folder hiện tại của bạn nó sẽ có Git Bash để bạn có thể dử dụng.
+Nếu các bạn có gặp vấn đề gì về lỗi Terminal, phiền bạn hãy sử dụng Git Bash here. Git bash nó xem đảm bảo bạn có thể chắc chắn xài được các câu lệnh.
+
+ **\*Cách sử dụng**: Nếu bạn đã cài Git bạn sẽ nhấn chuột phải vào khoảng trống Folder hiện tại của bạn nó sẽ có Git Bash để bạn có thể dử dụng.
 
 ---
 
