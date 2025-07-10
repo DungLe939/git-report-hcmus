@@ -44,11 +44,13 @@ Nếu các bạn có gặp vấn đề gì về lỗi Terminal, phiền bạn h�
 
 ## 2.3 Thực hành lệnh Terminal
 Trong lần thực hành này tôi muốn các bạn làm quen với terminal nếu có vướng mắc hay cần thêm thông tin hãy hỏi AI để bạn biết thêm chi tiết hơn. Bài thực hành có yêu cầu như sau:
-- Bước 1: Thực hiện mở `cmd` nhanh.
-- Bước 2: Làm quen với thao tác di chuyển `cd` và `cd..`.
-- Bước 3: Tạo một Folder với tên là `Git-Test`.
-	- Tạo một file text (.txt) có tên là `chapter1.txt`.
+
+- Bước 1: Thực hiện mở `cmd` nhanh bằng phím tắt `Window + R + Enter`.
+- Bước 2: Làm quen với thao tác di chuyển `cd` và `cd..` để di chuyển vào nơi bạn muốn tạo Folder. 
+- Bước 3: Tạo một Folder với tên là `Git-Test` bằng lệnh `mkdir`.
+	- Di chuyển vào Folder `Git-Test`.
+	- Tạo một file text (.txt) có tên là `chapter1.txt` bằng lệnh `echo`
 	- Tạo file tên là `chapter2.txt`.
-	- Check xem trong Folder đó có gì bằng cmd.
+	- Check xem trong Folder đó có gì bằng lệnh `dir`.
 	- Xóa file `chapter2.txt`.
-- Bước 4: Mở Folder đó qua VS code bằng lệnh .
+- Bước 4: Mở Folder đó qua visual studio code bằng lệnh `code .`(code chấm).
