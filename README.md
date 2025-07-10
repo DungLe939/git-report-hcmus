@@ -1,5 +1,4 @@
 # 1. Tổng quan về Git và GitHub
-Ở mục này, bạn sẽ chủ động tự ôn tập dựa trên một sườn nội dung mà mình cung cấp sẵn. Việc tự tìm hiểu và khai thác kiến thức theo từng ý trong sườn không chỉ giúp bạn hiểu sâu hơn mà còn rèn luyện khả năng tư duy, phân tích và trình bày vấn đề một cách có hệ thống.
 - Git là gì ?
 - Tại sao lại dùng Git?
 -  Lịch sử của Git.
